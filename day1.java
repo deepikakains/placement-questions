@@ -4,7 +4,7 @@ balls of each colour are idenƟcal. Find the number of ways of selecƟng 12
 balls from the stock? 
 ans- (d)455
 
-2.THe mangoes will ripen over time said Ashok.
+2.THe mangoes will ripe over time said Ashok.
 
 3.(c)441
 
