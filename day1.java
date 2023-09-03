@@ -1,4 +1,4 @@
-/*
+
 1.There is an unlimited stock of Blue, Red, White and Grey coloured balls. The 
 balls of each colour are idenƟcal. Find the number of ways of selecƟng 12 
 balls from the stock? 
@@ -9,7 +9,7 @@ ans- (d)455
 3.(c)441
 
 4.(d)15
-*/
+    
 import java .util.*;
 public class day1{
     public static void main (String args[]){
